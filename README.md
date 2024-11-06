@@ -5,4 +5,5 @@ It uses React-Native and Expo for development
 Library used
 
 1.Expo Camera
+
 2.Expo-Speech
